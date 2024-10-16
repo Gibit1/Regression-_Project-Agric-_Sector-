@@ -54,3 +54,10 @@ import matplotlib.pyplot as plt
 from scipy.stats import norm
 
 %matplotlib inline 
+
+### Project Environments & Links:
+Anaconda
+
+Trello for Project Management (https://trello.com/invite/b/66fad3ddff82197efd7bdb20/ATTI88b0d89037a39eb93179a4bb04c0a4de7A13B15B/regression-project)
+
+Google slides / Canva for Presentation Visuals
