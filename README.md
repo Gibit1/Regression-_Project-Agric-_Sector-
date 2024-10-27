@@ -64,32 +64,32 @@ Google slides / Canva for Presentation Visuals
 
 ### Requirements.txt_file:
 
-# Core Libraries
+#### Core Libraries
 pandas == 1.5.0 (For data manipulation and analysis)
 numpy == 1.23.0 (For numerical operations and handling arrays)
 
-# Visualisation Libraries
+#### Visualisation Libraries
 matplotlib == 3.5.2 (For data visualisation)
 seaborn == 0.12.0 (For enhanced visualisations based on matplotlib)
 
-# Machine Learning (for modeling emissions or trends)
+#### Machine Learning (for modeling emissions or trends)
 scikit-learn == 1.1.1 (For machine learning algorithms and evaluation metrics)
 
-# Data Processing and Feature Engineering 
+#### Data Processing and Feature Engineering 
 scipy == 1.9.0 (For statistical analysis)
 statsmodels == 0.13.2 (For statistical modeling and regression analysis)
 
-# Jupyter Notebook (For documentation and reporting)
+#### Jupyter Notebook (For documentation and reporting)
 jupyter == 1.0.0
 
-# Data Cleaning and Preprocessing (For advanced cleaning techniques)
+#### Data Cleaning and Preprocessing (For advanced cleaning techniques)
 missingno == 0.5.1 (For visualizing missing data patterns)
 
-# Additional Tools (For geospatial analysis, if emission are mapped geographically)
+#### Additional Tools (For geospatial analysis, if emission are mapped geographically)
 geopandas == 0.10.2 (For spatial data analysis)
 shapely == 1.8.0 (For manipulating and analysing geometries)
 
-# Python Version
+#### Python Version
 python_version == 3.9
 
 ### Project Manager / Contributor:
