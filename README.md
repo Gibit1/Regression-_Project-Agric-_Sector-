@@ -39,6 +39,12 @@ Total population- Female,
 Total emission,
 Average temperature Â°C
 
+##### Feature engineering _added features:
+Emissions per capita rural
+
+Emissions per capita urban
+
+
 ### Packages & Libraries:
 
 import pandas as pd
