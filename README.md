@@ -133,7 +133,7 @@ Highlight: The project successfully identified key emission sources and trends, 
 
 ### Link To Presentation / Visual Summary_
 
-For a quick overview of the project insights, view the presentation here. (Replace # with the actual link if available)
+For a quick overview of the project insights, view the presentation here. (attached to this Repo)
 
 ### Project Manager / Contributor:
 Akona Ciko | Akona.Ciko@fnb.co.za / Akonaciko1@gmail.com | Gibit1 (GitHub username)
